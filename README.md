@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **ML Algorithms, Crypto Algorithms**
 
-- 💬 Mastering **DSA And A Web Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
